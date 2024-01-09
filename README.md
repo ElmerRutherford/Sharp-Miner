@@ -1,7 +1,7 @@
 SharpMiner
 ==========
 
-Sharp Miner is an open source c# cpu scrypt miner<br />
+Sharp*Miner is an open source c  cpu scrypt miner<br />
 it's easy to use, easy to understand how the code and the process work!<br />
 currently it supports only longpooling pools (stratum will be add next release)<br />
 to make it work just edit Run.bat file with any editor with your pool info, save then execute it!<br />
@@ -37,3 +37,4 @@ Litecoin: LQQGtMCw3KgdpZHLzqysfYbqFpzgnigNjM<br />
 
 Making the fastest scrypt miner on the internet is my goal!<br />
 using the power of .net and the Artifiial Inteligence, the sky is the limit!<br />
+ 
